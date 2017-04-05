@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TextExtractor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TextExtractor_jar</output-path>
+    <root id="archive" name="TextExtractor.jar">
+      <element id="module-output" name="TextExtractor" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/poi-bin-3.15-20160924/poi-3.15/ooxml-lib/curvesapi-1.04.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/poi-bin-3.15-20160924/poi-3.15/poi-excelant-3.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/pdfbox-app-2.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/poi-bin-3.15-20160924/poi-3.15/poi-examples-3.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/poi-bin-3.15-20160924/poi-3.15/poi-ooxml-schemas-3.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/poi-bin-3.15-20160924/poi-3.15/poi-scratchpad-3.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/poi-bin-3.15-20160924/poi-3.15/poi-ooxml-3.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/poi-bin-3.15-20160924/poi-3.15/poi-3.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/poi-bin-3.15-20160924/poi-3.15/ooxml-lib/xmlbeans-2.6.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
